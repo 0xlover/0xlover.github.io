@@ -200,12 +200,12 @@ const default_config = {
               icon: "brand-github",
               icon_color: "#ffffff",
             },
-            // {
-            //   name: "playlists",
-            //   url: "",
-            //   icon: "brand-spotify",
-            //   icon_color: "#09b665",
-            // },
+            {
+              name: "playlists",
+              url: "https://open.spotify.com/user/31ptxexqcda4kkfnl7pgcrt2w25q/playlists",
+              icon: "brand-spotify",
+              icon_color: "#09b665",
+            },
           ],
         },
       ],
